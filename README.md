@@ -5,11 +5,11 @@ Tus tareas consisten en:
 1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
-### Víctor M. Rivas Santos
-<img src='/vrivas-2022.png' width='200px'>
+### Francisco Javier Jiménez Aznar
+<img src='/foto.jpeg' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+ALumno del Grado en Ingeniería Informática de la Universidad de Jaén.
+* **Correo**: fjja0004@red.ujaen.es
+* **GitHub**: https://github.com/fjja0004/
+* **Trello**: https://trello.com/fjja0004
+* **Tablero en Trello**: https://trello.com/b/56RAxRoo/fjja0004
