@@ -15,10 +15,12 @@ Alumno del Grado en Ingeniería Informática de la Universidad de Jaén.
 * **Usuario de GitHub**: fjja0004
 * **Enlace a GitHub**: https://github.com/fjja0004/
 #### Página de inicio
-
+<img src='/inicio_github.png' width='600px'>
 
 ### Trello
 * **Trello**: https://trello.com/fjja0004
 * **Tablero en Trello**: https://trello.com/b/56RAxRoo/fjja0004
 #### Tablero inicial
+<img src='/inicio_trello.png' width='600px'>
+
 #### Tablero final
